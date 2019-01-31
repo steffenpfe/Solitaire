@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\card.o
+./debug\deck.o
+./debug\game.o
+./debug\stack.o
+./debug\button.o
+./debug\qrc_res.o
+./debug\moc_game.o
+./debug\moc_stack.o
+./debug\moc_button.o
+);

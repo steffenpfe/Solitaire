@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\card.o
+./release\deck.o
+./release\game.o
+./release\stack.o
+./release\button.o
+./release\qrc_res.o
+./release\moc_game.o
+./release\moc_stack.o
+./release\moc_button.o
+);
